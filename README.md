@@ -2,7 +2,13 @@
 
 A professional responsive website clone for Ray Romano Contracting, showcasing construction and renovation services in New York City and the Hamptons.
 
-## 🏗️ About
+## � Live Demo
+
+**🔗 [View Live Website](https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/ray.html)**
+
+> **Note**: If the live demo link doesn't work immediately, you may need to enable GitHub Pages in your repository settings.
+
+## �🏗️ About
 
 This is a website clone for **Ray Romano Contracting**, a boutique construction company specializing in home renovations, gut renovations, and multiple-unit combinations in the Tri-state area. The company has been transforming spaces in Manhattan, Brooklyn, and the Hamptons for over 25 years.
 
@@ -83,6 +89,20 @@ rayromano/
    # Simply open ray.html in your preferred browser
    open ray.html
    ```
+
+## 🌐 Enable GitHub Pages (Live Demo)
+
+To make your website live on GitHub Pages:
+
+1. Go to your repository on GitHub: `https://github.com/SaiNikhil862/Ray-Romano-Contracting-Clone`
+2. Click on **Settings** tab
+3. Scroll down to **Pages** section in the left sidebar
+4. Under **Source**, select **Deploy from a branch**
+5. Choose **main** branch and **/ (root)** folder
+6. Click **Save**
+7. Your site will be live at: `https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/ray.html`
+
+*Note: It may take a few minutes for the site to become available after enabling GitHub Pages.*
 
 ## 📱 Responsive Design
 
