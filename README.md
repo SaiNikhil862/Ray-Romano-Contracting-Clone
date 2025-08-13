@@ -6,8 +6,6 @@ A professional website clone for Ray Romano Contracting, showcasing construction
 
 **🔗 [View Live Website](https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/ray.html)**
 
-> **Note**: If the live demo link doesn't work immediately, you may need to enable GitHub Pages in your repository settings.
-
 ## �🏗️ About
 
 This is a website clone for **Ray Romano Contracting**, a boutique construction company specializing in home renovations, gut renovations, and multiple-unit combinations in the Tri-state area. The company has been transforming spaces in Manhattan, Brooklyn, and the Hamptons for over 25 years.
