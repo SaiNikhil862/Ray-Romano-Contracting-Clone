@@ -1,0 +1,347 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box; 
+    font-family: "PT Serif", Georgia, serif;
+    /* font-family: proxima-nova; */
+}
+html{
+    scroll-behavior: smooth;
+    scroll-padding-top: 50px;
+}
+body {
+    scroll-behavior: smooth;
+}
+nav{
+    /* border:2px solid red ; */
+    height:140px;
+    background-color: white;
+}
+nav img{
+    height:100px;
+    width :100px;
+    margin-top: 20px;
+    margin-left: 6%;
+}
+nav ol{
+    list-style: none;
+    display: flex;
+    /* border:2px solid red ; */
+    gap: 50px;
+    margin-top: -60px;
+    padding-left: 50%;
+    font-size: 15px;
+} 
+main{
+     /* border:2px solid red ; */
+    height:600px;
+    background: url('./assets/Ray+Romano+Loft+renovation+nyc+brooklyn+hamptons+luxury+construction.jpeg') center 51%/100%;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+#as1{
+    height:300px ;
+}
+#sec1{
+      /* border:2px solid red ; */
+    height:600px;
+    background: url('./assets/Ray+Romano+Contracting+combination+renovation+luxury+contemporary+Upper+East+Side+NYC+Hamptons+Brooklyn+NJ.jpeg') center 51%/100%;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+#as2{
+    height:350px ;
+    
+}
+#sec2{
+      /* border:2px solid red ; */
+    height:600px;
+    background: url('./tv.jpeg') center 51%/100%;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+#as3{
+    height:350px ;
+    
+}
+#sec3{
+      /* border:2px solid red ; */
+    height:600px;
+    background: url('./1040.jpeg') center 51%/100%;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+#as4{
+    height:400px ;
+    
+}
+#sec4{
+      /* border:2px solid red ; */
+    height:600px;
+    background: url('./Custom+Closet+Ray+Rompano+Contracting+NYC+Brooklyn+Upper+east+Side+NYC+renovation.jpeg') center 51%/100%;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+#as5 div{
+    /* border: 2px solid red; */
+    height: 1100px;
+    letter-spacing: 50px;
+    line-height: 200px;
+    padding: 11% ;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+#as5 img{
+    /* border: 2px solid red; */
+    height: 200px;
+    width: 300px;
+}
+footer{
+    background-color: rgb(20, 19, 19);
+    height: 200px;
+    color: white;
+    
+}
+#d2 {
+    /* border: 2px solid red; */
+    height: 110px;
+    padding-top: 6%;
+    padding-left: 15%;
+}
+#d2 font{
+    border: 6px solid rgb(245, 239, 239);
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+    
+   
+}
+#d1{
+    /* border: 2px solid red; */
+    margin-top: 8%;
+    padding-left: 8%;
+}
+
+#d1 h1{
+     /* border: 2px solid red; */
+    height: 70px;
+     width: 56%;
+     padding-left: 10px;
+     font-size: 50px;
+     font-weight: 100;
+     letter-spacing: 5px;
+     background-color: rgba(240, 235, 235, 0.7);
+     /* background:rgb(175, 170, 170) transparent; */
+}
+#d1 p{
+    /* border: 2px solid red; */
+     height: 70px;
+     width: 65%;
+     /* padding-top: 10px; */
+     font-size: 20px;
+     padding-left: 10px;
+     background-color: rgba(240, 235, 235, 0.7);
+     line-height: 30px;
+}
+#as1 div{
+    /* border: 2px solid red; */
+    margin-top:8% ;
+    margin-left: 15%;
+}
+
+#as1 h1{
+    font-weight:600;
+    letter-spacing: 3px;
+}
+#as1 p{
+    line-height: 25px;
+    color: rgb(58, 55, 55);
+}
+#sec1 h1{
+    height: 120px;
+     width: 60%;
+     padding-left: 30px;
+     font-size: 40px;
+     font-weight: 100;
+     letter-spacing: 5px;
+     background-color: rgba(224, 224, 224, 0.747);
+     margin-top: 9%;
+     margin-left: 8%;
+    
+}
+#as2 div{
+    /* border: 2px solid red; */
+    margin-top:8% ;
+    margin-left: 15%;
+}
+
+#as2 h1{
+    font-size: 20px;
+    font-weight:600;
+    letter-spacing: 3px;
+}
+#as2 p{
+    line-height: 25px;
+    color: rgb(58, 55, 55);
+}
+#sec2 h1{
+    height:80px;
+     width: 30%;
+     padding-left: 30px;
+     padding-top: 13px;
+     font-size: 40px;
+     font-weight: 100;
+     letter-spacing: 5px;
+     background-color: rgba(224, 224, 224, 0.747);
+     margin-top: 9%;
+     margin-left: 8%;
+    
+}
+#as3 div{
+    /* border: 2px solid red; */
+    margin-top:8% ;
+    margin-left: 15%;
+}
+
+#as3 h1{
+    font-size: 20px;
+    font-weight:600;
+    letter-spacing: 2px;
+}
+#as3 p{
+    line-height: 25px;
+    color: rgb(58, 55, 55);
+}
+#sec3 h1{
+    height:80px;
+     width: 30%;
+     padding-left: 30px;
+     padding-top: 13px;
+     font-size: 40px;
+     font-weight: 100;
+     letter-spacing: 5px;
+     background-color: rgba(224, 224, 224, 0.747);
+     margin-top: 9%;
+     margin-left: 8%;
+    
+}
+#as4 div{
+    /* border: 2px solid red; */
+    margin-top:8% ;
+    margin-left: 15%;
+}
+
+#as4 h1{
+    font-size: 20px;
+    font-weight:600;
+    letter-spacing: 2px;
+}
+#as4 p{
+    font-size: 14px;
+    line-height: 25px;
+    color: rgb(58, 55, 55);
+}
+#para{
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    gap: 30px;
+}
+#para span{
+    /* border: 2px solid red ; */
+    width: 309px;
+    text-align: left;
+    margin-top: -25px;
+}
+#tbtn{
+    /* border: 2px solid red; */
+    margin-top: -50px;
+    margin-left: 750px;
+    border-radius: 60%;
+    height: 50px;
+    width: 60px;
+    border: none;
+    background-color: white;
+}
+
+
+
+
+ /* side circle buttons for every section */
+
+/* Navigation Dots -  CSS */
+.nav-dots {
+    position: fixed;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.dot {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 2px solid rgba(0, 0, 0, 0.6);
+    transition: all 0.4s ease;
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+}
+
+.dot:hover {
+    background-color: black;
+    border-color: black;
+    transform: scale(1.3);
+}
+
+.dot:active {
+    background-color: #333;
+    transform: scale(1.1);
+}
+
+/* Section name labels that appear on hover */
+.dot-label {
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    pointer-events: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.dot:hover .dot-label {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(-50%) translateX(-5px);
+}
+
+/* Arrow pointing to the dot */
+.dot-label::after {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 6px solid transparent;
+    border-left-color: black;
+}
