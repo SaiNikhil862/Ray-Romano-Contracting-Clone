@@ -1,6 +1,6 @@
 # Ray Romano Contracting - Website Clone
 
-A professional responsive website clone for Ray Romano Contracting, showcasing construction and renovation services in New York City and the Hamptons.
+A professional website clone for Ray Romano Contracting, showcasing construction and renovation services in New York City and the Hamptons.
 
 ## 🏗️ About
 
@@ -8,7 +8,6 @@ This is a website clone for **Ray Romano Contracting**, a boutique construction 
 
 ## ✨ Features
 
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Smooth Scrolling Navigation**: Enhanced user experience with CSS scroll-behavior
 - **Interactive Navigation Dots**: Fixed-position navigation with section labels
 - **Parallax Background Effects**: Fixed background attachments for visual depth
@@ -83,14 +82,7 @@ rayromano/
    # Simply open ray.html in your preferred browser
    open ray.html
    ```
-
-## 📱 Responsive Design
-
-The website is optimized for various screen sizes:
-- **Desktop**: Full layout with navigation dots and parallax effects
-- **Tablet**: Adapted layout maintaining functionality
-- **Mobile**: Optimized for touch interaction and smaller screens
-
+   
 ## 🎯 Key Components
 
 ### CSS Features
@@ -104,13 +96,6 @@ The website is optimized for various screen sizes:
 - Pure CSS navigation dots
 - Smooth scrolling using CSS `scroll-behavior`
 - Hover effects with CSS transitions only
-
-## 📧 Contact Information
-
-**Ray Romano Contracting**
-- **Address**: 302 West 86th Street, New York, NY 10024
-- **Phone**: 212-496-8102
-- **Email**: ray@rayromanocontracting.com
 
 ## 🤝 Contributing
 
