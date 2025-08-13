@@ -4,7 +4,7 @@ A professional website clone for Ray Romano Contracting, showcasing construction
 
 ## � Live Demo
 
-**🔗 [View Live Website](https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/ray.html)**
+**🔗 [View Live Website](https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/)**
 
 ## �🏗️ About
 
@@ -29,7 +29,7 @@ This is a website clone for **Ray Romano Contracting**, a boutique construction 
 
 ```
 rayromano/
-├── ray.html              # Main HTML file
+├── index.html            # Main HTML file
 ├── ray.css               # Main stylesheet
 ├── README.md             # Project documentation
 └── assets/               # Image assets
@@ -83,8 +83,8 @@ rayromano/
 
 3. **Open in browser**
    ```bash
-   # Simply open ray.html in your preferred browser
-   open ray.html
+   # Simply open index.html in your preferred browser
+   open index.html
    ```
 <<<<<<< HEAD
 
@@ -98,7 +98,7 @@ To make your website live on GitHub Pages:
 4. Under **Source**, select **Deploy from a branch**
 5. Choose **main** branch and **/ (root)** folder
 6. Click **Save**
-7. Your site will be live at: `https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/ray.html`
+7. Your site will be live at: `https://sainikhil862.github.io/Ray-Romano-Contracting-Clone/`
 
 *Note: It may take a few minutes for the site to become available after enabling GitHub Pages.*
 
